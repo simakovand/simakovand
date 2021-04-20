@@ -13,6 +13,7 @@ while True:
 #        print(a)
     elif on == 'exit':
         break
-    else:
+    elif on != 'a' and a == True:
         print ('Лампочка выключена')
-#        print(a)
+    elif on != 'a' and a == False:
+        print ('Лампочка включена')
