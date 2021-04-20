@@ -7,14 +7,14 @@ while True:
         print ('Лампочка включена')
         if a == True:
             a = False
-        print(a)
+#        print(a)
     elif on == 'a' and a == False:
         if a == False:
             a = True
         print('Лампочка выключена')
-        print(a)
+#        print(a)
     elif on == 'exit':
         break
     else:
         print ('Лампочка выключена')
-        print(a)
+#        print(a)
