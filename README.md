@@ -3,16 +3,16 @@ My name is Andrey. I'm inspired by coding  and i'm a fullstack developer.
 Stack:
 </h2>
 - JavaScript <br>
-- Node.js (express)
-- PostgreSQL
-- React, Redux
-- Sass/Scss
+- Node.js (express)<br>
+- PostgreSQL<br>
+- React, Redux<br>
+- Sass/Scss<br>
 <h2>
 Road map:
 </h2>
-- TypeScript
-- React Native
-- Next.js
+- TypeScript<br>
+- React Native<br>
+- Next.js<br>
 
 
 Feel free to pm me:
