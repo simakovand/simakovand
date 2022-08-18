@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @simakovand
-- 👀 I’m working in frontend development.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate with NASA.
-- 📫 U can find me at Telegram: @simack
+My name is Andrey. I'm inspired by coding  and i'm a fullstack developer.
+<h2>
+Stack:
+</h2>
 
 
 
