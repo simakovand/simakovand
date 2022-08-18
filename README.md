@@ -2,7 +2,7 @@ My name is Andrey. I'm inspired by coding  and i'm a fullstack developer.
 <h2>
 Stack:
 </h2>
-- JavaScript
+- JavaScript <br>
 - Node.js (express)
 - PostgreSQL
 - React, Redux
